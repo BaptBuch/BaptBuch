@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
-<h3 align="center">An ex-humanitarian aid worker newly converted to Data Engineering</h3>
+<h3 align="center">An ex-humanitarian aid worker newly converted to Data & Analytics Engineering</h3>
 
 - 🌱 I’m currently learning **GCP and dbt**
 
