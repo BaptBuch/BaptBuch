@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
-- 🌱 I’m currently learning **how to master dbt & GCP**
 
+- 🌱 I’m currently learning **how to master dbt & GCP**
 - 👯 I’m looking to collaborate on **projects with social impact**
 
 <h3 align="left">Connect with me:</h3>
