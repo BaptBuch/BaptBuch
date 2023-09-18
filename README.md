@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
 <h3 align="center">An ex-humanitarian aid worker converted as Data & Analytics Engineering</h3>
 
-- 🌱 I’m currently learning **Spark & how to master dbt**
+- 🌱 I’m currently learning **how to master dbt**
 
 - 👯 I’m looking to collaborate on **projects with social impact.**
 
